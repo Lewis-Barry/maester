@@ -127,6 +127,8 @@ module.exports = [
     'commands/Test-MtCisaSafeLink',
     'commands/Test-MtCisaSafeLinkClickTracking',
     'commands/Test-MtCisaSafeLinkDownloadScan',
+    'commands/Test-MtCisaSharePointOnlineSharing',
+    'commands/Test-MtCisaSharePointOnlineSharingAllowedDomain',
     'commands/Test-MtCisaSmtpAuthentication',
     'commands/Test-MtCisaSpamAction',
     'commands/Test-MtCisaSpamAlternative',
