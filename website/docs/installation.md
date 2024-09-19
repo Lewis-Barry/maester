@@ -2,6 +2,8 @@
 title: Installation guide
 ---
 
+Note: To run Maester with the additional optional modules and checks, you will need to use [PowerShell 7](https://learn.microsoft.com/powershell/scripting/install/installing-powershell?view=powershell-7.4) 
+
 - Install the **Maester** PowerShell module, Pester, and the out of the box tests.
 
 ```powershell
